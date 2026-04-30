@@ -1,7 +1,4 @@
-from ultralytics import YOLO
 
-# Modell laden
-model = YOLO("yolov8n.pt")
 
 # Fundliste vorbereiten
 if not os.path.exists("fundliste.csv"):
