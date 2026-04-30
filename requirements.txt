@@ -1,5 +1,4 @@
-from ultralytics import YOLO
-import cv2
-import pandas as pd
-from datetime import datetime
-import os
+ultralytics==8.2.0
+opencv-python-headless
+pandas
+numpy
