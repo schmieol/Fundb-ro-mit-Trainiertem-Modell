@@ -1,4 +1,4 @@
-
+from ultralytics import YOLO
 
 # Modell laden
 model = YOLO("yolov8n.pt")
